@@ -6,5 +6,5 @@ bases:
   - ../../../services/orderqueryms
   - ../../../services/reefersimulator
   - ../../../services/scoringmp
-  - ../../../services/spring-container-ms
+  - ../../../services/springcontainerms
   - ../../../services/voyagesms
