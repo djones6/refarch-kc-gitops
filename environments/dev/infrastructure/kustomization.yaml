@@ -5,5 +5,10 @@
 resources:
   - ./namespace.yaml
   - ./kafka-cluster.yaml
+# Needs to be in different namespace:
+#  - ./db-operatorsource.yaml
+# Work-in-progress:
+#  - ./db-operator-subscription.yaml
+#  - ./postgres-db.yaml
 
 namespace: shipping
